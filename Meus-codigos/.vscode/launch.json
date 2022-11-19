@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ExercioDeFixaçao",
+            "request": "launch",
+            "mainClass": "ExercioDeFixaçao",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CondiçaoCompostaEncadeada",
+            "request": "launch",
+            "mainClass": "CondiçaoCompostaEncadeada",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgramaIdade",
+            "request": "launch",
+            "mainClass": "ProgramaIdade",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgramaMedia",
+            "request": "launch",
+            "mainClass": "ProgramaMedia",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperadorTernario",
+            "request": "launch",
+            "mainClass": "OperadorTernario",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculadoraIdade",
+            "request": "launch",
+            "mainClass": "CalculadoraIdade",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch TiposPrimitivos",
+            "request": "launch",
+            "mainClass": "TiposPrimitivos",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch HoraDoSistema",
+            "request": "launch",
+            "mainClass": "HoraDoSistema",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeiroPrograma",
+            "request": "launch",
+            "mainClass": "PrimeiroPrograma",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Caixa",
+            "request": "launch",
+            "mainClass": "Caixa",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploBreakContinuo",
+            "request": "launch",
+            "mainClass": "ExemploBreakContinuo",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplofor",
+            "request": "launch",
+            "mainClass": "exemplofor",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch planooperadora",
+            "request": "launch",
+            "mainClass": "planooperadora",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch resultadoescolar",
+            "request": "launch",
+            "mainClass": "resultadoescolar",
+            "projectName": "caixaeletronico_a9ecc25e"
+        },
+        {
+            "type": "java",
+            "name": "Launch sistemamedida",
+            "request": "launch",
+            "mainClass": "sistemamedida",
+            "projectName": "caixaeletronico_a9ecc25e"
+        }
+    ]
+}
